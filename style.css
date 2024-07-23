@@ -280,6 +280,11 @@ section {
     display: flex;
 }
 
+.about-section-pic {
+    display: flex;
+    justify-content: center;
+}
+
 .about-pic {
     border-radius: 2rem;
 }
